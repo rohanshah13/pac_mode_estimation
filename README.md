@@ -1,6 +1,6 @@
 # PAC-Mode-Estimation
 
-Code Repository for a NeurIPS 2021 submission
+Code Repository for "PAC Mode Estimation using PPR Martingale Confidence Sequences"
 
 For generating data similar to Figure 1 and Table 1 in the paper, go to the Mode Estimation Code directory and follow the instructions there.
 
