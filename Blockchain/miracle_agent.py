@@ -134,7 +134,7 @@ class PPR_1vr(object):
         '''
             params_init: parameters of the prior beta distribution (list)
             params_final: parameters of the posterior beta distribution (list)
-            step_size: For searching the parameter space
+            step_size: For searching the parameter space. Default is 0.01, needs to be smaller if probability values are not well separated.
             alpha: error probability
         '''
 
